@@ -9,9 +9,9 @@ SoftwareStudio Lab4 2016
 
 # 組員二
 
-姓名：
+姓名：陳映竹
 
-學號：
+學號：103062131
 
 #Screenshot
 
